@@ -10,15 +10,15 @@ function App() {
 		},
 		{
 			name: "Jobs and Hiring",
-			link: "/jobs",
+			link: "/",
 		},
 		{
 			name: "About Us",
-			link: "/about",
+			link: "/",
 		},
 		{
 			name: "Contact",
-			link: "/contact",
+			link: "/",
 		},
 	];
 	return (
