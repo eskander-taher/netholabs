@@ -25,7 +25,6 @@ function App() {
 		<div>
 			<NavBar navItems={navItems} />
 			<Background />
-			<SparklesPreview />
 		</div>
 	);
 }
