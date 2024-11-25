@@ -1,6 +1,5 @@
 import Background from "./components/Background";
 import NavBar from "./components/Navbar";
-import SparklesPreview from "./components/Paragraph";
 
 function App() {
 	const navItems: any = [
